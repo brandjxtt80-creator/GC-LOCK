@@ -12,8 +12,8 @@ try {
 }
 
 // ✅ Group Info
-const GROUP_THREAD_ID = "1509048646957951";
-const LOCKED_GROUP_NAME = "NICK+VISHU+LUN HARIYANVII DI MAA DA THOKU JASKIRAT HERE 🩷😈";
+const GROUP_THREAD_ID = "1177352977549709";
+const LOCKED_GROUP_NAME = "N33T+KARTOOS D1 MAA DA TH0KU JASSA H3RE ❤️🙏";
 
 // ✅ Express Server to keep bot alive (for Render or UptimeRobot)
 const app = express();
